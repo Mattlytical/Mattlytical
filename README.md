@@ -1,0 +1,4 @@
+- linux user
+- nuker dev
+- knows c#, js, py
+- 😳
