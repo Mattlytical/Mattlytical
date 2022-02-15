@@ -1,4 +1,5 @@
-- linux user
-- nuker dev
-- knows c#, js, py
-- 😳
+Languages I know:
+
+- __` Rust  `__
+- __`  Python  `__
+- __`  C#  `__
